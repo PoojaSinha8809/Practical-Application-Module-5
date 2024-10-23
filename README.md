@@ -15,4 +15,4 @@ It is observed that driver who visited bar more than once in a month, with no ki
 
 In the further investigation on "Coffee House" coupon, It is observed that driver who visited coffee house more than once in a month, with no snowy weather, with occupation other than farming, fishing and forestry and above age 21 has highest chance to accept the coffee House Coupon. In this case the acceptance rate for Coffee House coupon is 21% of total count of Coffee House available.
 
-The Jupyter Notebook with details on investigation and findings can be find  here: 
+The Jupyter Notebook with details on investigation and findings can be find  here: https://github.com/PoojaSinha8809/Practical-Application-Module-5/blob/main/prompt.ipynb

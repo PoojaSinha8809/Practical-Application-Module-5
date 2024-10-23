@@ -19,7 +19,7 @@ It is noticed that the data did not fullfill the desire condition that has impac
 # Extended Investigation and Findings
 In the further investigation on "Coffee House" coupon, It is observed that driver who visited coffee house more than once in a month, with no snowy weather, and above age 21 has most desirable chance to accept the coffee House Coupon. In this case the acceptance rate for Coffee House coupon is 28.2% of total count of Coffee House available. It is also noticed that driver who visited coffee house less thans once, weather is Snowy,and  below age 21 has most desirable condition to reject the coupon. In this case rejection rate is 33.6%
 
-It is noticed that the data needs some improvement to full fill the desire condition to accept the coupon. Looking at acceptane and rejection rate for most desirable condition to accept anmd reject the coffee house coupon together covers 61.8% of the total data which means that 40% of data needs improve or has problem to fit in correct in correct category. 
+It is noticed that the data needs improvement to full fill the desire condition to accept the coupon. Looking at acceptane and rejection rate for most desirable condition to accept anmd reject the coffee house coupon together covers 61.8% of the total data which means that approx 38.1% of data needs improvement to fit in correct in correct category. 
 
 The Jupyter Notebook with details on investigation and findings can be find  here: https://github.com/PoojaSinha8809/Practical-Application-Module-5/blob/main/prompt.ipynb
 
